@@ -1,0 +1,17 @@
+{
+  "name": "Tinder",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.2.1",
+    "react-native": "^0.31.0",
+    "react-native-swipe-cards": "0.0.8",
+    "react-native-vector-icons": "^2.0.3",
+    "react-redux": "4.4.0",
+    "redux": "3.3.1",
+    "redux-thunk": "1.0.3"
+  }
+}
